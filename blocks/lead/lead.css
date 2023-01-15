@@ -13,21 +13,21 @@
 
 @media (max-width: 1023px) {
     .lead {
-        max-width: 768px; 
+        max-width: 768px;
         margin-top: 48px;        
     }
 }
 
 @media (max-width: 767px) {
     .lead {
-        max-width: 767px; 
+        max-width: 767px;
         width: 100%;              
     }
 }
 
 @media (max-width: 425px) {
     .lead {
-        max-width: 425px; 
+        max-width: 425px;
         width: 100%;     
     }
 }

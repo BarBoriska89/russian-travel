@@ -14,14 +14,14 @@
 
 @media (max-width: 1023px) {
     .places {
-        max-width: 720px; 
+        max-width: 720px;
         margin: 88px auto 0 auto;
         gap: 73px;
     }
 }
 @media (max-width: 767px) {
     .places {
-        max-width: 93.75%; 
+        max-width: 93.75%;
         margin: 64px auto 0 auto;
         gap: 50px;
               

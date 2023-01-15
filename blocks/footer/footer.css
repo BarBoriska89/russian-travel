@@ -1,0 +1,29 @@
+.footer {
+    margin: 0 auto 24px auto;
+    max-width: 1184px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+@media (max-width: 1279px) {
+    .footer {
+        width: 90.6%;
+    }
+}
+
+@media (max-width: 1023px) {
+    .footer {
+        width: 93.75%;
+    }
+}
+
+@media (max-width: 767px) {
+    .footer {
+        width: 90%;
+       flex-direction: column;
+       gap: 48px;
+       margin-left: 16px;
+    }
+}

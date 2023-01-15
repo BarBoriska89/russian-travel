@@ -1,0 +1,20 @@
+.place__paragraphs {
+    grid-row: 2;
+    display: grid;
+    grid-template-rows: repeat( 2, min-content);
+    margin: 48px auto 0 auto;    
+}
+
+@media (max-width: 767px) {
+    .place__paragraphs {
+        margin-top: 0;
+        grid-row: 4;
+        width: 100%;
+    }
+}
+
+@media (max-width: 425px) {
+    .place__paragraphs {
+        width: 90%;
+    }
+}

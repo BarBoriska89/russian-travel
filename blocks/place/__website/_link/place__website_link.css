@@ -1,0 +1,10 @@
+.place__website_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #fff;
+    text-underline-offset: 1px;
+    text-underline-position: under;
+}

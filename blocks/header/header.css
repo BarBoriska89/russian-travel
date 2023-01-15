@@ -1,0 +1,23 @@
+.header {
+    margin: 28px auto 0 auto;
+    padding: 0 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+@media (max-width: 850px) {
+    .header {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+@media (max-width: 425px) {
+    .header {
+        margin-top: 16px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+

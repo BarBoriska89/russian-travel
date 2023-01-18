@@ -1,8 +1,11 @@
-.intro__list_list-span {
+.place__url-heading {
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 12px;
-    line-height: 18px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #AAA;
     margin-block-start: 0;
     margin-block-end: 0;
     margin-inline-start: 0px;
